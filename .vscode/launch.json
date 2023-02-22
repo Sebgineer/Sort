@@ -12,11 +12,11 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\SelectionSort.ts",
+            "program": "${workspaceFolder}\\Sort.ts",
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
             ],
-            "args": ["1000000"]
+            "args": ["100000", "q"]
         }
     ]
 }
